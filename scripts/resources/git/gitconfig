@@ -1,0 +1,12 @@
+[user]
+    name = c-rainstorm
+    email = rainstorm.me@outlook.com
+[core]
+    safecrlf = true
+    quotepath = false
+    editor = 'vim'
+[alias]
+    lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+
+[push]
+	default = simple

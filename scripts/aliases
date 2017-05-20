@@ -1,0 +1,8 @@
+alias android-studio='(/opt/android-studio/bin/studio.sh &) &> /dev/null'
+alias ss='(~/workspace/git/configs/scripts/start-sslocal.sh &) &> /dev/null'
+alias pdf='(okular &) &> /dev/null'
+alias ec='(/opt/eclipse/eclipse &) &> /dev/null'
+alias idea='(/opt/idea/bin/idea.sh &) &> /dev/null'
+alias clion='(/opt/clion/bin/clion.sh &) &> /dev/null'
+alias webstorm='(/opt/webStorm/bin/webstorm.sh &) &> /dev/null'
+alias uml='(/opt/Umlet/umlet.sh &) &> /dev/null'

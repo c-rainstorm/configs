@@ -1,0 +1,31 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/workspace/idea/Java-API" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/workspace/idea/Java-API" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/workspace/idea/Java-API" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/workspace/idea/Java-API">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-163.11103.6" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1485140277183" />
+              <option name="buildTimestamp" value="1484603436495" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/workspace/idea" />
+  </component>
+</application>
