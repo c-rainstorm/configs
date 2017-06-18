@@ -1,0 +1,35 @@
+# .bashrc
+
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+	. /etc/bashrc
+fi
+
+# Uncomment the following line if you don't like systemctl's auto-paging feature:
+# export SYSTEMD_PAGER=
+
+# JAVA_HOME
+JAVA_HOME=/opt/java/jdk
+PATH=$JAVA_HOME/bin:$PATH
+export PATH
+export JAVA_HOME
+
+# Git 
+PATH=/opt/git:$PATH
+export PATH
+
+# Maven
+
+export M2_HOME=/opt/java/apache-maven
+export PATH=$M2_HOME/bin:$PATH
+export MAVEN_OPTS='-Xms256m -Xmx512m'
+
+# Tomcat
+export CATALINA_HOME=/opt/java/apache-tomcat
+export PATH=$CATALINA_HOME/bin:$PATH
+
+# Jerrydog
+export JERRYDOG_HOME=/home/chen/workspace/git/jerrydog
+#User specific aliases and functions
+
+. ~/.aliases
